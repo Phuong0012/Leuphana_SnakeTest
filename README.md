@@ -1,7 +1,8 @@
 # Exam project Digital Media
 
     This Repository contains:
-- xxxxxxxxxxxxxx
-- dsfgsgsshfdgb
+- a READ ME file
+- gif file (ochi.gif)
+- source code (new.py)
 ____________________________________
-The puprose of this project is........
+The puprose of this project is 
